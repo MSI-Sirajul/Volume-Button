@@ -8,7 +8,7 @@ This app displays **floating on-screen volume controls** that stay accessible an
 <h3>🎬 App Demo</h3>
 
 <video width="360" height="640" controls autoplay muted loop>
-  <source src="demo.mp4" type="video/mp4">
+  <source src="Screenrecorder-2025-10-21-20-59-37-523.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
